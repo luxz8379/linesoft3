@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Sosial Media Line</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <div class="avatar">
+        <img src="https://telegra.ph/file/0a072f174d650c32cf888-a8f8274e22c09f9b1e.png" alt="Foto Rinwangi">
+      </div>
+      <div class="name">line</div>
+      <div class="handle">Halo aku LINE 😘</div>
+      <div class="desc">Temukan aku & Luxz di sosial media 😘</div>
+      
+      <div class="links">
+        <a class="btn" href="https://www.tiktok.com/@rinwangi" target="_blank">TikTok — @rinwangi</a>
+        <a class="btn" href="https://www.instagram.com/aleirinnn" target="_blank">Instagram — @aleirinnn</a>
+        <a class="btn" href="https://www.instagram.com/sigma_batagor10k" target="_blank">Instagram Luxz — @sigma_batagor10k</a>
+        <a class="btn" href="https://t.me/Rinnsoft" target="_blank">Telegram Luxz — @Rinnsoft</a>
+      </div>
+
+      <footer>BY LUXZ ♥️</footer>
+    </div>
+  </div>
+</body>
+</html>
